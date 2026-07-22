@@ -2,7 +2,7 @@
 
 This repository contains the LaTeX source files, assets, and compiled PDF for the **Deep Tournament Selection (DTS)** thesis poster.
 
-![Poster Preview](poster_page-1.png)
+![Poster Preview](poster_page.png)
 
 ## 📄 Overview
 
@@ -32,7 +32,7 @@ pdflatex poster.tex
 .
 ├── poster.tex           # Main LaTeX source file
 ├── poster.pdf           # Compiled poster PDF
-├── poster_page-1.png    # High-resolution poster preview image
+├── poster_page.png      # High-resolution poster preview image
 ├── stein_logo.png       # University / Lab Logo
 ├── images/              # Plots, diagrams, and figures used in the poster
 ├── .gitignore           # Git ignore rules for TeX build artifacts
